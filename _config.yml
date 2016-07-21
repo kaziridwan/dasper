@@ -1,5 +1,5 @@
 # Website details
-name: Dasper
+name: Notes
 description: Just a demo
 email: hello@ozgrozer.com
 author: ozgrozer
@@ -15,7 +15,7 @@ timezone: Europe/Istanbul
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: http://ozgrozer.github.io/dasper
+baseurl: https://kaziridwan.github.io/notes
 
 # Includes
 addthisId: ""
