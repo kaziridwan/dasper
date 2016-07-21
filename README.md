@@ -1,6 +1,16 @@
 # Dasper
 Dasper is a [Jekyll](http://jekyllrb.com/) theme inspired by [Ghost](https://ghost.org/)'s default theme [Casper](https://demo.ghost.io/) and also [Jasper](https://biomadeira.github.io/jasper/) & [Kasper](http://rosario.io/)
 
+# Getting Started
+​
+To power this up using gh-pages,
+​
+1. Fork this repo
+2. Create a `gh-pages` branch
+3. Checkout on `gh-pages`
+4. Edit `_config.yml`
+5. Use [prose.io](http://prose.io/ "prose.io") to create content. You can also use [snaggy](https://snag.gy/ "snaggy") to upload images directly from clipboard, and get the url, and later upload it in the blog using prose.io
+
 ## Live demo
 [ozgrozer.github.io/dasper](http://ozgrozer.github.io/dasper)
 
