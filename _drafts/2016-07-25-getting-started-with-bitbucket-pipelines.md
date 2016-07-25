@@ -33,4 +33,3 @@ The steps are simple, and can be found [here](https://confluence.atlassian.com/b
 ### 1.Configure bitbucket-pipelines.yml
 
 You can find official page [here](https://confluence.atlassian.com/bitbucket/configure-bitbucket-pipelines-yml-792298910.html)
-
