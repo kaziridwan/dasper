@@ -10,6 +10,7 @@ layout: article
 
 With introduction of [Docker](https://www.docker.com/what-docker), the development of new breed of CI systems was inevitable. And now the hype is on with repository hosting platforms releasing their build in CI (Continuous Integration) system, starting with bitbucket releasing their [pipelines](https://bitbucket.org/product/features/pipelines) and Gitlab releasing their own version of [pipelines](https://about.gitlab.com/2016/05/22/gitlab-8-8-released/) in response.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p5KgjeZB8Ww?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 It runs your builds with Docker. If you don't specify an image, it'll run your build with the default one, but it's better to get an environment that meets the specific needs of your configuration.
