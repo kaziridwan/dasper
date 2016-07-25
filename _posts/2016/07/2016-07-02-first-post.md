@@ -1,8 +1,9 @@
 ---
 layout: article
 title: First Post
-date: 2016-07-02 15:33:00+0200
-coverPhoto: http://ozgrozer.github.io/dasper/contents/images/2016/07/jekyll.jpg
+date: '2016-07-02 15:33:00+0200'
+coverPhoto: 'http://ozgrozer.github.io/dasper/contents/images/2016/07/jekyll.jpg'
+published: false
 ---
 
 Cupcake ipsum dolor sit amet cake. Cotton candy candy canes jujubes. Powder toffee I love sugar plum sweet roll candy cookie powder wafer. Tiramisu tootsie roll I love sweet chocolate cake cookie. Fruitcake I love gummies cheesecake sugar plum. Candy candy candy jelly jelly-o.
