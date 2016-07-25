@@ -24,7 +24,7 @@ You might also try considering reading this article about [continuous delivery p
 
 ## Instructions
 
-The steps are simple, and can be found [in the offial doc](https://confluence.atlassian.com/bitbucket/get-started-with-bitbucket-pipelines-792298921.html#GetstartedwithBitbucketPipelines-Step1:InstallBitbucketPipelines)
+The steps are simple, and can be found [in the official doc](https://confluence.atlassian.com/bitbucket/get-started-with-bitbucket-pipelines-792298921.html#GetstartedwithBitbucketPipelines-Step1:InstallBitbucketPipelines)
 
 1.	Signup and install Bitbucket Pipelines
 2.  Enable Bitbucket Pipelines
